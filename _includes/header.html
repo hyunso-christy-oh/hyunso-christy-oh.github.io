@@ -8,8 +8,13 @@
     </a>
   </div>
   <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+    {% assign current = page.url | remove: '.html' %}
     {% for item in site.data.settings.menu %}
-      <a class="me-3 py-2 text-decoration-none" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
+      {% if current == item.url %}
+        <a class="me-3 py-2 nav-active" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
+      {% else %}
+        <a class="me-3 py-2 text-decoration-none" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
+      {% endif %}
     {% endfor %}
   </nav>
 </header>
