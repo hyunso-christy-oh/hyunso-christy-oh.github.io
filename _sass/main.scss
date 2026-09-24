@@ -12,3 +12,10 @@ body {
 body a {
   color: $linkColor
 }
+
+.nav-active {
+  text-decoration: underline;
+  text-decoration-color: #bc0a2e;   // underline color
+  text-decoration-thickness: 3px;   // underline weight
+  text-underline-offset: 8px;       // gap between text and line
+}
