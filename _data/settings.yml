@@ -21,4 +21,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Hyunso Christy Oh', title: 'PhD Candidate', department: 'Political Science', institution: 'Ohio State University', institution_address: 'Derby Hall, 154 N Oval Mall, Columbus, OH 43210', phone: 'XX', email: 'oh.663@osu.edu', office: 'XX', image: 'assets/img/contact.jpg'}
