@@ -15,7 +15,7 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'envelope', style: 'fas', link: 'mailto:oh.663@osu.edu'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/hyunso-christy-oh'}
 
 contacts:
