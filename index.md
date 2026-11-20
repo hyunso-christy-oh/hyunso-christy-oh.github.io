@@ -3,6 +3,4 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I am interested in how international events come to be personally meaningful for political elites and members of the public. Currently, I am engaged in projects looking into the gendered differences in responses to national security threats, the unique impact of epistemic uncertainty on international security, and the impact of international competition on public support for funding international organizations, among others. With a focus on psychological mechanisms, my research reveals the hidden structures of public opinion for issues where it is considered most haphazard while challenging existing assumptions that bracket the human mind.
